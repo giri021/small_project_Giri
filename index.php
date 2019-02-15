@@ -17,6 +17,8 @@
                         <h1>Selamat datang di Pesbuk Kawan Kawan</h1>
                         <p>Bergabunglah bersama jutaan orang lainnya...</p>
 			<p>Terima Kasih</p>
+			<p>Dirubah sedikit oleh Giri</p>
+			<p>Mohon Maklum</p>
                     </div>
                     <div class="col-md-4">
                         <a href="login.php" class="btn btn-secondary">Masuk</a>
