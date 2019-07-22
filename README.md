@@ -1,6 +1,6 @@
-# small_project_Giri
+# Small_project_Giri_1
 
-Small_Project Cilsy DevOps
+Small_Project Cilsy DevOps 1
 
 Membangun Infrastruktur On Premises untuk Web Apps
 
